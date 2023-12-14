@@ -30,16 +30,23 @@ This is a repository about Data structures and algorithms.
 ##4.Merge sort
 ###4.1 Time Complexity
   The time complexity is o(n*logn).
-  The worst and best case is o(n*logn).
+  The worst and best case is o(n*logN).
 ###4.2 Space Complexity
   The space complexity is o(n).
 ###4.3 Stability
   This algorithm is stable.
 
-##4.Shell sort
-###4.1 Time Complexity
+##5.Shell sort
+###5.1 Time Complexity
   The best case for time complexity is o(n^1.3).
 ###4.2 Space Complexity
   The space complexity is o(1).
-###4.3 Stability
+###5.3 Stability
   This algorithm is not stable.
+
+##6. Quick Sort
+###6.1 Time Complexity
+  The time complexity is o(n*logN).
+  The worst case is o(n^2). The best case is o(n*logN)
+###6.2 Space Complexity
+  The space complexity is o(logN)
